@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>KULLANICIDAN_ALINAN_SAYIYA_KADAR_TOPLAYIP_MODUNU_ALAN_İŞLEM</RootNamespace>
+  </PropertyGroup>
+
+</Project>
